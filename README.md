@@ -6,7 +6,7 @@
 
 
 
-- 👨‍💻 View all my projects and research papers on my portfolio website : [https://vishal-251044.github.io/Personal-portfolio-website/#home](https://vishal-251044.github.io/Personal-portfolio-website/#home)
+- 👨‍💻 View all my projects and research papers on my portfolio website : [https://vishal-251044.github.io/Personal-portfolio-website/](https://vishal-251044.github.io/Personal-portfolio-website/)
 
 - 📫 How to reach me **vsc251044@gmail.com**
 
