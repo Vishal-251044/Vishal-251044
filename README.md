@@ -1,6 +1,6 @@
 ![logo](https://github.com/Vishal-251044/Vishal-251044/blob/main/Vishal%20S%20Chavan.png)
-<h1 align="center">Hi 👋, I'm Vishal S Chavan</h1>
-<h3 align="center">Innovative MERN stack developer crafting scalable web solutions.</h3>
+<h1 align="center">Hi 👋, I'm Vishal Subhash Chavan</h1>
+<h3 align="center">Innovative AI full stack developer crafting scalable software solutions.</h3>
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
